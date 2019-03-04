@@ -1,6 +1,6 @@
 # 本群为胜寒ENTJ人格群(微信)专用内部公告板
 ### 0.发展史及会员名单
-[电脑版请移步](https://github.com/revaraver/ENTJ/tree/master/history "电脑版请移步")
+[电脑版请移步](https://github.com/revaraver/ENTJ/tree/master/history "电脑版请移步")  
 [手机版请移步](https://github.com/revaraver/ENTJ/blob/master/history/README.md "手机版请移步")
 
 ------------
@@ -32,5 +32,5 @@
 
 ### 4.群活动
 #### 4.1读书活动
-[电脑版请移步](https://github.com/revaraver/ENTJ/tree/master/activity/reading "电脑版请移步")
+[电脑版请移步](https://github.com/revaraver/ENTJ/tree/master/activity/reading "电脑版请移步")  
 [手机版请移步](https://github.com/revaraver/ENTJ/blob/master/activity/reading/README.md "手机版请移步")
