@@ -31,6 +31,10 @@
 
 
 ### 4.群活动
-#### 4.1读书活动
+#### 4.1 reading
 [电脑版请移步](https://github.com/revaraver/ENTJ/tree/master/activity/reading "电脑版请移步")  
 [手机版请移步](https://github.com/revaraver/ENTJ/blob/master/activity/reading/README.md "手机版请移步")
+
+#### 4.2 learing
+[电脑版请移步](https://github.com/revaraver/ENTJ/tree/master/activity/learing "电脑版请移步")  
+[手机版请移步](https://github.com/revaraver/ENTJ/blob/master/activity/learing/README.md "手机版请移步")
